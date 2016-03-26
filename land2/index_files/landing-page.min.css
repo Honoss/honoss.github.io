@@ -753,14 +753,12 @@ a {
 
 @media(max-width:480px) {
 
-    h1 {
-        font-size: 34px!important;
+     h1.sub-text{
+        margin-bottom:20px;
+        font-size:0.6em;
     }
     
-    h1.sub-text{
-    margin-bottom:20px;
-    font-size:0.6em;
-}
+  
 
     .body-container-wrapper-landing {
         padding-top: 0!important;
