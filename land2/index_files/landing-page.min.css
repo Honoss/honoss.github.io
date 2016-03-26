@@ -410,6 +410,7 @@ section#header {
 
 section#header .logo {
     margin-bottom: 28px;
+    max-width:50%;
 }
 
 section#header p.secondary-header {
