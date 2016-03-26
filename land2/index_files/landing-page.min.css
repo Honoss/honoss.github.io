@@ -123,6 +123,11 @@ h1.sub-text{
         text-align:center;
     };
     
+     h1.sub-text{
+        margin-bottom:20px;
+        font-size:34px;
+    }
+    
 
 }
 
@@ -154,6 +159,11 @@ h1.sub-text{
         -ms-box-sizing: border-box;
         box-sizing: border-box;
         text-align:center;
+    }
+    
+    h1.sub-text{
+        margin-bottom:20px;
+        font-size:34px;
     }
 
     .row-fluid [class*="span"]:first-child {
@@ -250,6 +260,11 @@ h1.sub-text{
         -ms-box-sizing: border-box;
         box-sizing: border-box;
         text-align:center;
+    }
+    
+    h1.sub-text{
+        margin-bottom:20px;
+        font-size:34px;
     }
 
     .row-fluid [class*="span"]:first-child {
