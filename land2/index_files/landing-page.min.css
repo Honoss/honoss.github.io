@@ -25,6 +25,11 @@
     box-sizing: border-box;
 }
 
+h1.sub-text{
+    margin-bottom:20px;
+    font-size:34px;
+}
+
 
 .row-fluid [class*="span"]:first-child {
     margin-left: 0;
