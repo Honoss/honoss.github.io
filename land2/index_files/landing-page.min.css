@@ -30,6 +30,17 @@ h1.sub-text{
     font-size:1.4em;
 }
 
+.fundclass{
+    
+}
+
+.fundclass tr td img{
+    
+}
+
+.fundclass tr td p{
+    
+}
 
 .row-fluid [class*="span"]:first-child {
     margin-left: 0;
