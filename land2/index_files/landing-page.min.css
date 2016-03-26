@@ -27,7 +27,7 @@
 
 h1.sub-text{
     margin-bottom:20px;
-    font-size:0.6em;
+    font-size:1.4em;
 }
 
 
@@ -162,7 +162,7 @@ h1.sub-text{
     
     h1.sub-text{
         margin-bottom:20px;
-        font-size:1.5em;
+        font-size:1.4em;
     }
 
     .row-fluid [class*="span"]:first-child {
@@ -262,7 +262,7 @@ h1.sub-text{
     
     h1.sub-text{
         margin-bottom:20px;
-        font-size:27px;
+        font-size:1.5em;
     }
 
     .row-fluid [class*="span"]:first-child {
