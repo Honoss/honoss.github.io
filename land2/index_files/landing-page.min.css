@@ -22,11 +22,12 @@
     -ms-box-sizing: border-box;
     box-sizing: border-box;
     margin-left:-3px;
+    text-align:center;
 }
 
 h1.sub-text{
     margin-bottom:20px;
-    font-size:34px;
+    font-size:0.6em;
 }
 
 
@@ -161,7 +162,7 @@ h1.sub-text{
     
     h1.sub-text{
         margin-bottom:20px;
-        font-size:34px;
+        font-size:1.5em;
     }
 
     .row-fluid [class*="span"]:first-child {
@@ -261,7 +262,7 @@ h1.sub-text{
     
     h1.sub-text{
         margin-bottom:20px;
-        font-size:34px;
+        font-size:27px;
     }
 
     .row-fluid [class*="span"]:first-child {
@@ -684,10 +685,14 @@ a {
 
 @media(max-width:767px) {
     section#header .logo {
-        max-width: 200px;
+        max-width: 50%;
         text-align: center;
         margin: 0 auto 30px auto;
         display: block;
+    }
+    h1.sub-text{
+        margin-bottom:20px;
+        font-size:0.6em;
     }
 
     h1 {
