@@ -31,15 +31,20 @@ h1.sub-text{
 }
 
 .fundclass{
-    
+    width:80%;
 }
 
 .imgfundadores{
+    width:20%;
     
 }
 
 .textfundadores{
-    
+    text-align: justify;
+}
+
+.textfundadores p{
+    text-align: justify;
 }
 
 .row-fluid [class*="span"]:first-child {
