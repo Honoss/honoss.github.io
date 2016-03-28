@@ -12,6 +12,11 @@
     clear: both;
 }
 
+	@font-face{
+		font-family:pirulen;
+		src: url('fonts/pirulen.ttf');
+		}
+
 .row-fluid [class*="span"] {
     display: block;
     float: left;
