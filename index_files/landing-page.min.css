@@ -63,6 +63,13 @@ h1.sub-text{
     font-size: 15px;
 }
 
+.ideiafunciona{
+	margin-top:2%;
+	font-family:pirulen;
+	font-size:23px;
+	color:#8795a3;
+}
+
 .row-fluid [class*="span"]:first-child {
     margin-left: 0;
 }
