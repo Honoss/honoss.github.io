@@ -63,6 +63,17 @@ h1.sub-text{
     font-size: 15px;
 }
 
+.textopiniao{
+	width:45%;
+	border-right:2px solid;
+	font-size:30px;
+	color:#8795a3;
+	margin-top:0;
+	font-style:italic;
+	padding-right:2%;
+	margin-right:11%;
+}
+
 .ideiafunciona{
 	margin-top:2%;
 	font-family:pirulen;
