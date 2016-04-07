@@ -35,6 +35,14 @@ h1.sub-text{
     font-size:1.4em;
 }
 
+h2{
+	font-size:36px;
+	line-height:1.2;
+	margin-bottom:2%;
+	margin-top:2%
+	
+}
+
 .fundclass{
     width:80%;
 }
