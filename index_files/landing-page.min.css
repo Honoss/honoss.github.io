@@ -252,8 +252,19 @@ h3{
 .ideiafunciona{
 	margin-top:2%;
 	font-family:pirulen;
-	font-size:23px;
+	font-size:20px;
 	color:#8795a3;
+}
+
+.textopiniao{
+	width:50%;
+	border-right:2px solid;
+	font-size:30px;
+	color:#8795a3;
+	margin-top:0;
+	font-style:italic;
+	padding-right:2%;
+	margin-right:11%;
 }
 
     .row-fluid:before,.row-fluid:after {
@@ -558,8 +569,19 @@ h3{
 .ideiafunciona{
 	margin-top:2%;
 	font-family:pirulen;
-	font-size:23px;
+	font-size:17px;
 	color:#8795a3;
+}
+
+.textopiniao{
+	width:50%;
+	border-right:2px solid;
+	font-size:30px;
+	color:#8795a3;
+	margin-top:0;
+	font-style:italic;
+	padding-right:2%;
+	margin-right:11%;
 }
 
     .hidden-phone {
@@ -973,8 +995,19 @@ h3{
 .ideiafunciona{
 	margin-top:2%;
 	font-family:pirulen;
-	font-size:23px;
+	font-size:12px;
 	color:#8795a3;
+}
+
+.textopiniao{
+	width:50%;
+	border-right:2px solid;
+	font-size:30px;
+	color:#8795a3;
+	margin-top:0;
+	font-style:italic;
+	padding-right:2%;
+	margin-right:11%;
 }
     
   
