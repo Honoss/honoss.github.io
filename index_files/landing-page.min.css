@@ -267,6 +267,17 @@ h3{
 	margin-right:11%;
 }
 
+.textochamada{
+	color:#8795a3;
+	font-size:18px;
+	font-style:italic;
+	border-left: 2px solid;
+	padding-left:20px;
+	margin: 1%;
+    	margin-left: 11%;
+    	margin-right: 11%;
+}
+
     .row-fluid:before,.row-fluid:after {
         display: table;
         content: "";
@@ -394,6 +405,17 @@ h3{
     color: #8795a3;
     margin-top: 4%;
     margin-bottom: 4%;
+}
+
+.textochamada{
+	color:#8795a3;
+	font-size:18px;
+	font-style:italic;
+	border-left: 2px solid;
+	padding-left:20px;
+	margin: 1%;
+    	margin-left: 11%;
+    	margin-right: 11%;
 }
 
     .row-fluid:before,.row-fluid:after {
@@ -571,6 +593,17 @@ h3{
 	font-family:pirulen;
 	font-size:17px;
 	color:#8795a3;
+}
+
+.textochamada{
+	color:#8795a3;
+	font-size:18px;
+	font-style:italic;
+	border-left: 2px solid;
+	padding-left:20px;
+	margin: 1%;
+    	margin-left: 11%;
+    	margin-right: 11%;
 }
 
 .textopiniao{
@@ -1009,7 +1042,17 @@ h3{
 	padding-right:2%;
 	margin-right:11%;
 }
-    
+ 
+ .textochamada{
+	color:#8795a3;
+	font-size:18px;
+	font-style:italic;
+	border-left: 2px solid;
+	padding-left:20px;
+	margin: 1%;
+    	margin-left: 11%;
+    	margin-right: 11%;
+}   
   
 
     .body-container-wrapper-landing {
