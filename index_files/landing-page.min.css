@@ -40,6 +40,13 @@ h2{
 	line-height:1.2;
 	margin-bottom:2%;
 	margin-top:2%
+}
+
+h3{
+	font-size:28px;
+	line-height:1.2;
+	margin-bottom:16px;
+	margin-top:1%
 	
 }
 
@@ -213,6 +220,14 @@ h2{
 	margin-top:2%
 }
 
+h3{
+	font-size:28px;
+	line-height:1.2;
+	margin-bottom:16px;
+	margin-top:1%
+	
+}
+
     .row-fluid:before,.row-fluid:after {
         display: table;
         content: "";
@@ -319,7 +334,13 @@ h2{
 	line-height:1.2;
 	margin-bottom:2%;
 	margin-top:2%
-	
+}
+
+h3{
+	font-size:28px;
+	line-height:1.2;
+	margin-bottom:16px;
+	margin-top:1%
 }
 
     .row-fluid:before,.row-fluid:after {
@@ -468,7 +489,13 @@ h2{
 	line-height:1.2;
 	margin-bottom:2%;
 	margin-top:2%
-	
+}
+
+h3{
+	font-size:28px;
+	line-height:1.2;
+	margin-bottom:16px;
+	margin-top:1%
 }
 
     .hidden-phone {
@@ -855,7 +882,13 @@ a {
 	line-height:1.2;
 	margin-bottom:2%;
 	margin-top:2%
-	
+}
+
+h3{
+	font-size:28px;
+	line-height:1.2;
+	margin-bottom:16px;
+	margin-top:1%
 }
     
   
