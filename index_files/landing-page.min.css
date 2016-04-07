@@ -313,6 +313,14 @@ h2{
         width: 100%;
         *zoom: 1;
     }
+    
+    h2{
+	font-size:36px;
+	line-height:1.2;
+	margin-bottom:2%;
+	margin-top:2%
+	
+}
 
     .row-fluid:before,.row-fluid:after {
         display: table;
