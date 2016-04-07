@@ -205,6 +205,13 @@ h2{
         width: 100%;
         *zoom: 1;
     }
+    
+    h2{
+	font-size:36px;
+	line-height:1.2;
+	margin-bottom:2%;
+	margin-top:2%
+}
 
     .row-fluid:before,.row-fluid:after {
         display: table;
@@ -447,6 +454,14 @@ h2{
     .visible-phone {
         display: inherit!important;
     }
+    
+    h2{
+	font-size:36px;
+	line-height:1.2;
+	margin-bottom:2%;
+	margin-top:2%
+	
+}
 
     .hidden-phone {
         display: none!important;
@@ -826,6 +841,14 @@ a {
         margin-bottom:20px;
         font-size:0.6em;
     }
+    
+    h2{
+	font-size:36px;
+	line-height:1.2;
+	margin-bottom:2%;
+	margin-top:2%
+	
+}
     
   
 
