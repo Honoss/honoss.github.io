@@ -279,7 +279,7 @@ h3{
 }
 
 .fundclass{
-    width:80%;
+    width:85%;
 }
 
 .imgfundadores{
@@ -295,7 +295,7 @@ h3{
 .textfundadores p{
     text-align: justify;
     font-style: italic;
-    font-size: 15px;
+    font-size: 14px;
     margin-top: 20px;
 }
 
@@ -649,11 +649,11 @@ h3{
 }
 
 .fundclass{
-    width:80%;
+    width:85%;
 }
 
 .imgfundadores{
-    width: 15%;
+    width: 20%;
     padding: 10px;
 }
 
@@ -665,7 +665,7 @@ h3{
 .textfundadores p{
     text-align: justify;
     font-style: italic;
-    font-size: 15px;
+    font-size: 12px;
     margin-top: 20px;
 }
 
@@ -1107,11 +1107,11 @@ h3{
 }
 
 .fundclass{
-    width:80%;
+    width:90%;
 }
 
 .imgfundadores{
-    width: 15%;
+    width: 35%;
     padding: 10px;
 }
 
@@ -1123,7 +1123,7 @@ h3{
 .textfundadores p{
     text-align: justify;
     font-style: italic;
-    font-size: 15px;
+    font-size: 9px;
     margin-top: 20px;
 }
  
