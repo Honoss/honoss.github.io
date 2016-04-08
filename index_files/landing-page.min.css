@@ -278,6 +278,27 @@ h3{
     	margin-right: 11%;
 }
 
+.fundclass{
+    width:80%;
+}
+
+.imgfundadores{
+    width: 15%;
+    padding: 10px;
+}
+
+.textfundadores{
+    text-align: justify;
+    width: 65%;
+}
+
+.textfundadores p{
+    text-align: justify;
+    font-style: italic;
+    font-size: 15px;
+    margin-top: 20px;
+}
+
     .row-fluid:before,.row-fluid:after {
         display: table;
         content: "";
@@ -416,6 +437,27 @@ h3{
 	margin: 1%;
     	margin-left: 11%;
     	margin-right: 11%;
+}
+
+.fundclass{
+    width:80%;
+}
+
+.imgfundadores{
+    width: 15%;
+    padding: 10px;
+}
+
+.textfundadores{
+    text-align: justify;
+    width: 65%;
+}
+
+.textfundadores p{
+    text-align: justify;
+    font-style: italic;
+    font-size: 15px;
+    margin-top: 20px;
 }
 
     .row-fluid:before,.row-fluid:after {
@@ -604,6 +646,27 @@ h3{
 	margin: 1%;
     	margin-left: 11%;
     	margin-right: 11%;
+}
+
+.fundclass{
+    width:80%;
+}
+
+.imgfundadores{
+    width: 15%;
+    padding: 10px;
+}
+
+.textfundadores{
+    text-align: justify;
+    width: 65%;
+}
+
+.textfundadores p{
+    text-align: justify;
+    font-style: italic;
+    font-size: 15px;
+    margin-top: 20px;
 }
 
 .textopiniao{
@@ -1041,6 +1104,27 @@ h3{
 	font-style:italic;
 	padding-right:2%;
 	margin-right:11%;
+}
+
+.fundclass{
+    width:80%;
+}
+
+.imgfundadores{
+    width: 15%;
+    padding: 10px;
+}
+
+.textfundadores{
+    text-align: justify;
+    width: 65%;
+}
+
+.textfundadores p{
+    text-align: justify;
+    font-style: italic;
+    font-size: 15px;
+    margin-top: 20px;
 }
  
  .textochamada{
