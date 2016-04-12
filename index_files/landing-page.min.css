@@ -101,7 +101,7 @@ h3{
 }
 
 .ideiafunciona{
-	margin-top:2%;
+	margin-top:5%;
 	font-family:pirulen;
 	font-size:23px;
 	color:#8795a3;
@@ -115,8 +115,9 @@ h3{
 }
 
 .framevideo{
-	width: 560px;
-	height: 315px ;
+	width: 660px;
+	height: 371px ;
+	box-shadow:2px 2px 10px #888888;
 }
 
 .row-fluid [class*="span"]:first-child {
@@ -257,10 +258,11 @@ h3{
 .framevideo{
 	width: 560px;
 	height: 315px ;
+	box-shadow:2px 2px 10px #888888;
 }
 
 .ideiafunciona{
-	margin-top:2%;
+	margin-top:5%;
 	font-family:pirulen;
 	font-size:20px;
 	color:#8795a3;
@@ -439,8 +441,9 @@ h3{
 }
 
 .framevideo{
-	width: 560px;
-	height: 315px ;
+	width: 660px;
+	height: 371px ;
+	box-shadow:2px 2px 10px #888888;
 }
 
 .textochamada{
@@ -646,12 +649,13 @@ h3{
 }
 
 .framevideo{
-	width: 560px;
-	height: 315px ;
+	width: 490px;
+	height: 276px ;
+	box-shadow:2px 2px 10px #888888;
 }
 
 .ideiafunciona{
-	margin-top:2%;
+	margin-top:5%;
 	font-family:pirulen;
 	font-size:12px;
 	color:#8795a3;
@@ -1109,12 +1113,13 @@ h3{
 }
 
 .framevideo{
-	width: 560px;
-	height: 315px ;
+	width: 310px;
+	height: 174px ;
+	box-shadow:2px 2px 10px #888888;
 }
 
 .ideiafunciona{
-	margin-top:2%;
+	margin-top:5%;
 	font-family:pirulen;
 	font-size:12px;
 	color:#8795a3;
