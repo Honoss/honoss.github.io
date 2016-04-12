@@ -114,6 +114,11 @@ h3{
     margin-bottom: 6%;
 }
 
+.framevideo{
+	width: 560px;
+	height: 315px ;
+}
+
 .row-fluid [class*="span"]:first-child {
     margin-left: 0;
 }
@@ -247,6 +252,11 @@ h3{
     margin-top: 6%;
     margin-bottom: 6%;
     font-size:16px;
+}
+
+.framevideo{
+	width: 560px;
+	height: 315px ;
 }
 
 .ideiafunciona{
@@ -426,6 +436,11 @@ h3{
     color: #8795a3;
     margin-top: 6%;
     margin-bottom: 6%;
+}
+
+.framevideo{
+	width: 560px;
+	height: 315px ;
 }
 
 .textochamada{
@@ -628,6 +643,11 @@ h3{
     margin-top: 6%;
     margin-bottom: 6%;
     font-size: 14px;
+}
+
+.framevideo{
+	width: 560px;
+	height: 315px ;
 }
 
 .ideiafunciona{
@@ -1086,6 +1106,11 @@ h3{
     margin-top: 6%;
     margin-bottom: 6%;
     font-size: 9px;
+}
+
+.framevideo{
+	width: 560px;
+	height: 315px ;
 }
 
 .ideiafunciona{
