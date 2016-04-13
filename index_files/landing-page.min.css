@@ -114,6 +114,12 @@ h3{
     margin-bottom: 6%;
 }
 
+#sonho p {
+	margin:0;
+	font-size: 15px;
+	
+}
+
 .framevideo{
 	width: 660px;
 	height: 371px ;
