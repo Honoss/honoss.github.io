@@ -766,6 +766,23 @@ h3{
     	margin-right: 11%;
 }
 
+.icones {
+    width: 45%;
+    float: left;
+}
+
+.separador1{    
+	float: left;
+    width: 100%;
+    padding-left: 10%;
+    margin-bottom: 10%;}
+	
+.separador2{
+    float: left;
+    width: 100%;
+    padding-left: 10%;
+}
+
 .fundclass{
     width:85%;
 }
