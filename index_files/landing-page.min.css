@@ -1231,7 +1231,7 @@ h3{
 }
 
 .fundclass{
-    width:90%;
+    width:100%;
 }
 
 .icones{
@@ -1245,13 +1245,14 @@ padding-top: 8%;
 	
 }
 .imgfundadores{
-    width: 45%;
+    width: 40%;
     padding: 10px;
 }
 
 .textfundadores{
     text-align: justify;
     width: 65%;
+    padding-bottom:7%;
 }
 
 .p1 {
@@ -1283,6 +1284,10 @@ padding-top: 8%;
 
 .p8 {
     font-size: 13px;
+}
+
+#fundadores{
+padding:1em;	
 }
 
 .textfundadores p{
