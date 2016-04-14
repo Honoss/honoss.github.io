@@ -101,7 +101,7 @@ h3{
 }
 
 .ideiafunciona{
-	margin-top:5%;
+	margin-top:7%;
 	font-family:pirulen;
 	font-size:23px;
 	color:#9a9a9a;
@@ -123,42 +123,80 @@ h3{
 }
 
 #sonhos p {
-	margin:0;
-	font-size: 15px;
 	color:#ffffff;
 	font-style:italic;
 }
 
-.p1{
-	
+.p1 {
+    font-size: 15px;
+    margin-left: 4%;
+    /* margin: 0; */
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
 }
 
-.p2{
-	
+.p2 {
+    font-size: 18px;
+    /* margin: 0px; */
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
 }
 
-.p3{
-	
+.p3 {
+    font-size: 21px;
+    /* margin: 0; */
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-left: 6%;
 }
 
-.p4{
-	
+.p4 {
+    font-size: 14px;
+    /* margin: 0px; */
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-left: 1%;
 }
 
-.p5{
-	
+.p5 {
+    font-size: 18px;
+    /* margin: 0px; */
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-left: 7%;
 }
 
-.p6{
-	
+.p6 {
+    font-size: 23px;
+    /* margin: 0px; */
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-left: 2%;
 }
 
-.p7{
-	
+.p7 {
+    font-size: 25px;
+    /* margin: 0px; */
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-left: 5%;
 }
 
-.p8{
-	
+.p8 {
+    font-size: 17px;
+    /* margin: 0px; */
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 14%;
 }
 
 
