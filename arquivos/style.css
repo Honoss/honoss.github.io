@@ -1,0 +1,337 @@
+
+@font-face{
+		font-family:century;
+		src: url('centurygothic.ttf');
+}
+@font-face{
+		font-family:fanheiti;
+		src: url('fanheiti.ttf');
+}
+
+@font-face{
+		font-family:eraslight;
+		src: url('eraslight.ttf');
+}
+
+#banner{
+	background:url("banner.jpg");
+	padding:10%;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+
+#banner img{
+	margin-top:13%;
+	margin-bottom:13%;
+	width:60%;
+}
+
+#frasesonhoI{
+	font-family:century;
+	font-size: 1.4em;
+    margin-top: 3%;
+    margin-left: -3%;
+	padding:1%;
+}
+
+
+#frasesonhoII{
+	font-family:century;
+	padding:1%;
+	font-size:1.6em;
+    margin-left:11%;
+}
+
+#frasesonhoII font {
+	font-weight:bold;
+	color:#0d89a8;
+}
+
+#frasesonhoIII{
+	font-family:century;
+	padding:1%;
+	font-size: 0.9em;
+    margin-left: -8%;
+}
+
+#frasesonhoIV{
+	font-family:fanheiti;
+	padding:1%;
+	font-size: 1.6em;
+	margin-bottom: 3%;
+}
+
+#frasesonhoIV font {
+	color:#0d89a8;
+}
+
+#observacaocentral{
+	background:url("fundoobs.jpg");
+	padding:2%;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.observacaodestaque{
+	color:#000000;
+}
+
+#painelobs{
+	margin-top:4%;
+	margin-bottom:4%;
+}
+
+#painelobs div{
+	display: inline-block;
+	vertical-align: middle;
+}
+
+#painelobsE {
+	width: 20%;
+}
+
+#painelobsE img {
+	width:100%
+}
+
+#painelobsD {
+	width: 60%;
+	font-family:century;
+	font-size: 1.35em;
+	color: #ffffff;
+	padding-left:2%;
+	text-align: justify;
+}
+
+#busca{
+	font-family: century;
+    font-size: 1.4em;
+    padding: 3%;
+    text-align: center;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+#busca font{
+	font-weight:bold;
+	color:#0d89a8;
+}
+
+#pesquisa {
+	background-color :#0d89a8;
+	padding:2%;
+	font-family:eraslight;
+	color: #ffffff;
+}
+
+#pesquisa div font{
+	
+}
+
+#frasepesquisaI p{
+	font-size: 1.3em;
+    width: 55%;
+    text-align: justify;
+    margin-top: 4%;
+}
+
+
+#frasepesquisaII p{
+	font-size: 1.4em;
+    text-align: left;
+    width: 50%;
+    margin-left: 9%;
+    margin-top: 3%;
+}
+
+#frasepesquisaIII p{
+	font-size: 1.8em;
+    width: 55%;
+    margin-top: 3%;
+	margin-bottom: 3%;
+
+}
+
+#bannerhonoss{
+	width:100%;
+}
+
+#bannerhonoss img{
+	width:100%;
+}
+
+#imagempalavras{
+	width:100%;
+}
+
+#imagempalavras img{
+	width:100%;
+}
+
+#oprojeto{
+	background:url("oprojeto.jpg");
+	padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 3%;
+	padding-bottom: 3%;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+#oprojeto div{
+	font-family: century;
+    font-size: 1.4em;
+	color: #4e4c4c;
+}
+
+#oprojeto div p{
+	text-align:justify
+}
+
+#oprojeto #fraseprojetoI{
+	margin-top: 6%;
+}
+
+#oprojeto #fraseprojetoI font {
+	color :#0d89a8;
+}
+
+#oprojeto #fraseprojetoII{
+	margin-bottom: 25%;
+    margin-top: 5%;
+}
+
+#oprojeto #fraseprojetoII font {
+	color :#0d89a8;
+}
+
+
+footer{
+	background-color:#0d89a8;
+	color:#ffffff;
+	padding:4%;
+		
+}
+#contatos{
+	margin-bottom:2%;
+}
+
+#contatos div{
+	display: inline-block;
+	vertical-align:middle;
+	width:4%;
+}
+
+#contatos div img{
+	width:100%;
+}
+
+#contatos div div{
+	display: inline-block;
+	vertical-align:middle;	
+}
+
+#titulocontate{
+	
+	font-size:1em;
+	color: #ffffff;
+	margin-bottom:1%;
+	font-family: century;
+}
+
+
+@media(max-width:500px) {
+	
+	#banner img{
+	margin-top: 25%;
+    margin-bottom: 25%;
+    width: 80%;
+	}
+	
+	#frasesonhoI{
+	font-size: 0.7em;
+    margin-top: 8%;
+	
+	}
+
+	#frasesonhoII{
+		font-size:1em;
+		padding: 2%;
+	}
+
+	#frasesonhoIII{
+		font-size: 0.8em;
+		padding: 2%;
+	}
+
+	#frasesonhoIV{
+		font-size: 0.9em;
+		margin-bottom: 8%;
+		padding: 2%;
+	}
+	
+	#painelobs {
+    margin-top: 8%;
+    margin-bottom: 8%;
+	}
+	
+	#painelobsE {
+	width: 100%;
+}
+	#painelobsE img {
+	width: 37%;
+	}
+	
+	#painelobs div{
+	display: inherit;
+    vertical-align: middle;
+	}
+
+	#painelobsD {
+	width: 90%;
+	margin-top: 5%;
+	font-size: 0.87em;
+	margin-left: 5%;
+	}
+	
+	#frasepesquisaI p {
+    font-size: 0.9em;
+    width: 80%;
+    margin-top: 9%; 
+	}
+	
+	#frasepesquisaII p {
+    font-size: 0.85em;
+    width: 70%;
+    margin-top: 8%;}
+	
+	#frasepesquisaIII p {
+    font-size: 0.9em;
+    width: 80%;
+    margin-top: 7%;
+    margin-bottom: 7%;
+	}
+	
+	#oprojeto div {
+    font-size: 0.75em;
+	}
+	
+	#oprojeto #fraseprojetoI {
+    margin-top: 18%;}
+	
+	#busca {
+    font-size: 0.7em;
+    margin-top: 3%;
+    margin-bottom: 3%;}
+	
+	#titulocontate {
+    font-size: 0.7em;}
+	
+	#contatos div {
+     width: 7%;}
+		
+}
+
+
+
